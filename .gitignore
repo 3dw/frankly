@@ -3,3 +3,6 @@ logs/
 .idea/
 docs/output
 *.log
+
+# FVM Version Cache
+.fvm/
